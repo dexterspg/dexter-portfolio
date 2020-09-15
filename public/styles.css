@@ -1,0 +1,198 @@
+a{
+    color: #11999E;
+      font-family: 'Montserrat', sans-serif;
+      margin: 10px 20px;
+      text-decoration: none;
+  }
+  
+  a:hover{
+    color: #EAF6F6
+  }
+  
+  body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+  }
+  
+  h1{
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+  
+  }
+  
+  
+  h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    color: #66BFBF;
+    padding-bottom: 10px;
+  
+  }
+  
+  h3{
+  
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+  
+  
+  }
+  
+  hr{
+    border-top: 6px dotted #EAF6F6;
+    border-bottom: 0px;
+    border-left: 0px;
+    margin: 100px auto;
+    width: 4%;
+  }
+  
+  
+  #pro{
+   text-decoration: underline;
+   font-weight: normal;
+  
+  }
+  
+  
+  .bottom-cloud{
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+  }
+  
+  .bottom-container{
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+  
+  
+  }
+  
+  .copyright{
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+  }
+  
+  
+  .contact-message{
+    width: 40%;
+    margin: 40px auto 60px;
+  }
+  
+  .intro{
+    width: 30%;
+    margin: auto;
+  
+  }
+  .middle-container{
+    margin: 100px 0;
+  
+  }
+  
+  .skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+  
+  }
+  
+  .skill-row-img-1{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+  }
+  
+  .skill-row-img-2{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+  }
+  
+  .top-cloud{
+     position: absolute;
+    right: 300px;
+    top: 40px;
+  }
+  
+  .top-container{
+    background-color: #E4F9F5;
+    padding-top: 100px;
+    position: relative;
+  
+  }
+  
+  /* .btn{
+    background: #11CDD4;
+       background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+       background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+       background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+       background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+       background-image: linear-gradient(to bottom, #11CDD4, #11999E);
+       -webkit-border-radius: 8px;
+       -moz-border-radius: 8px;
+       border-radius: 8px;
+       color: #FFFFFF;
+       font-family: Arial;
+       font-size: 20px;
+       font-weight: 100;
+       padding: 40px;
+       box-shadow: 1px 1px 20px 0px #000000;
+       -webkit-box-shadow: 1px 1px 20px 0px #000000;
+       -moz-box-shadow: 1px 1px 20px 0px #000000;
+       text-shadow: 1px 1px 20px #000000;
+       border: solid #337FED 1px;
+       text-decoration: none;
+       display: inline-block;
+       cursor: pointer;
+       text-align: center;
+  }
+  
+  .btn:hover{
+    border: solid #337FED 1px;
+       background: #30E3CB;
+       background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+       background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+       background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+       background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+       background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
+       -webkit-border-radius: 20px;
+       -moz-border-radius: 20px;
+       border-radius: 20px;
+       text-decoration: none;
+  } */
+  
+  .btn {
+      box-shadow:inset 0px 1px 0px 0px #9acc85;
+    background-color: #11CDD4;
+      background-image: linear-gradient(to bottom, #11CDD4, #11999E);
+      border-radius:8px;
+      border:1px solid #337FED;
+      display:inline-block;
+      cursor:pointer;
+      color:#ffffff;
+      font-family: 'Montserrat', sans-serif;
+      font-size:20px;
+      font-weight:100;
+      padding:20px 12px;
+      text-decoration:none;
+    text-shadow: 1px 1px 20px #000000;
+    cursor: pointer;
+  }
+  .btn:hover {
+  
+    background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
+      background-color:#30E3CB;
+    border: solid #337FED 1px;
+    border-radius: 20px;
+     text-decoration: none;
+  }
+  .btn:active {
+      position:relative;
+      top:1px;
+  }
+  
