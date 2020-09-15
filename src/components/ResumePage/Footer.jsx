@@ -9,7 +9,7 @@ function Footer(){
             LinkedIn</a>
             <GitHubIcon />
           <a className="footer-link" href="https://github.com/dexterspg">GitHub</a>
-         <p className="copyright">© Made By Dexter Pagkaliwangan on September 15, 2020</p>
+         <p className="copyright">© Created By Dexter Pagkaliwangan on Sept 15, 2020</p>
 
    </div>
 }
