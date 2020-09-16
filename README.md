@@ -1,4 +1,4 @@
-My Portfolio Website  Created on September 15, 2020
+## My Portfolio Website  Created on September 15, 2020
 
 I have built this portfolio website to boost my qualifications towards potential employers hoping that I could land a role in software development.
 The page can be accessed via link http://dexter-portfolio.herokuapp.com/
