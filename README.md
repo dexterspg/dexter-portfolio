@@ -1,3 +1,8 @@
+My Portfolio Website  Created on September 15, 2020
+
+I have built this portfolio website to boost my qualifications towards potential employers hoping that I could land a role in software development.
+The page can be accessed via link http://dexter-portfolio.herokuapp.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
